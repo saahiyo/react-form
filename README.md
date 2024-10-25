@@ -18,16 +18,14 @@ This project is a simple signup form built using React. It includes features suc
 ## File Structure
 
 ```
-
-├── public
-│   └── index.html
-├── src
-│   ├── components
-│   │   └── Form.js   # The form component with password toggling
-│   ├── App.js        # Main app component
-│   └── index.js      # App entry point
-├── .gitignore
-├── package.json
-└── README.md
-
+└── 📁src
+    └── 📁assets
+        └── react.svg
+    └── 📁component
+        └── Form.jsx
+    └── App.jsx
+    └── index.css
+    └── main.jsx
+└── index.html
+└── Readme.md
 ```
